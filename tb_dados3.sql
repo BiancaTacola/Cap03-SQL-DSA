@@ -7,9 +7,9 @@ classe,
 idade,
 menopausa,
 tamanho_tumor,
-CONCAT(inv_nodes, '-', quadrante) AS posição_tumor,
+CONCAT(inv_nodes, '-', quadrante) AS posicao_tumor,
 node_caps,
 deg_malig,
 seio,
-irradiano
+irradiando
 FROM cap03.tb_dados3;
