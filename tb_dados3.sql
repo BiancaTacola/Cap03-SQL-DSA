@@ -11,5 +11,5 @@ CONCAT(inv_nodes, '-', quadrante) AS posição_tumor,
 node_caps,
 deg_malig,
 seio,
-irradiando
+irradiano
 FROM cap03.tb_dados3;
